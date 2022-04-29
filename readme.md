@@ -10,6 +10,10 @@
 9. Delete the file in the client directory
 10. It should be deleted in the server directory
 
+---- Running test ----
+1. Create three directories: Client_directory, Server_directory and Test_file in the current working directory
+2. Add the file named doc_file.docx to the Test_file folder
+
 ---- Requirements ----
 1. Python 3.10
 2. Non standard libraries:
